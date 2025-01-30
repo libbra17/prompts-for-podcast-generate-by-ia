@@ -32,6 +32,21 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
+
 ## 👨‍💻 Expert
 
-)
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      
+    />
+    <p>&nbsp&nbsp&nbspJOBANU<br>
+    &nbsp&nbsp&nbsp
+    
+  
+
+---
+
+⌨️ TKS 💜 por [Libbra17]
